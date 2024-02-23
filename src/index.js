@@ -28,5 +28,7 @@ class heroi {
 }
 
 let heroiUm = new heroi("Aldebran", 22, "guerreiro")
-
 heroiUm.atacar()
+
+let heroiDois = new heroi("Izakashy",  19, "ninja")
+heroiDois.atacar()
